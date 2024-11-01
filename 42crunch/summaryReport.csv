@@ -1,0 +1,2 @@
+name,grade,valid,issues_total,issues_critical,issues_high,issues_medium,issues_low,hasGlobalSecurity,hasOperationSecurity,report_url
+/Users/heshaamattar/github/heshaam-42c/42c-kong-integration/OAS/pixi.json,84,true,27,0,0,26,0,True,True,https://us.42crunch.cloud/apis/d20a76b4-17ac-42f9-a110-6fda75f2bf0d/security-audit-report
