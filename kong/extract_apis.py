@@ -63,6 +63,6 @@ def fetch_api_product_version_specs (api_product_id, api_product_version_id):
     return json_data
 
 # main
-KONG_ACCESS_TOKEN = "kpat_Wz7AvpxOgREt0YSo0oNmPy7f5Vf0ZmL8sC9Da99mYl2wQLIdV"
+KONG_ACCESS_TOKEN = "xxxx"
 
 list_api_products()
